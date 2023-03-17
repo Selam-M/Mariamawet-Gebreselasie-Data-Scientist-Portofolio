@@ -28,7 +28,7 @@
   - Organized Data, Managed Data, and retrieved Data, archived data from different computer databases.
   
 - <b>APP for Dispatch Riders</b>
-    -https://github.com/Selam-M/An-Aggregator-App-for-dispatch-riders-to-connect-with-SME-s
+    - https://github.com/Selam-M/An-Aggregator-App-for-dispatch-riders-to-connect-with-SME-s
        - Collaborative work with Software designers and Product managements 
        - Did Data Cleaning and Data Exploration
   
