@@ -32,11 +32,15 @@
        - Collaborative work with Software designers and Product managements 
        - Did Data Cleaning and Data Exploration
   
-
-<h2>📺 CIVILENGINEERING POJECTS -As a Highway Engineer</h2>
+  
+  <h2>📺 CIVILENGINEERING POJECTS -As a Highway Engineer</h2>
 
 - Design and Super Vision of Roads of Urban Roads in Addis Ababa, Ethiopia 
 - Design and Super Vision of Roads of Rural roads in Ethiopia 
+  
+  <h2>📺 CERTIFICATES</h2>
+     -Data Science,Python,French Language and Different Curricular and Extra Curricular 
+     - https://drive.google.com/drive/folders/1xdC-Me-aTd8zfPZqCW0KOTwXBVwavhuA?usp=share_link
 
 <h2> 🤳 Connect with me:</h2>
 
