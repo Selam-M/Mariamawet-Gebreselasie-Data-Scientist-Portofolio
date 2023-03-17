@@ -4,11 +4,11 @@
 
 - <b> Exploratory Data Analysis(EDA) on Python</b>
   - https://github.com/Selam-M/Mariamawet-EDA-updatedN
-    -Used Numpyto do simple to Complex Operations
-    -Used Pandas to craete Data Frames 
-    -Used Sklearn to do Data preprocessing, feature engineering, model selection, and validation testing
-    -Used Matplotlib to do visualizations 
-    -Did Data Cleaning
+  - Used Numpyto do simple to Complex Operations
+  - Used Pandas to craete Data Frames 
+  - Used Sklearn to do Data preprocessing, feature engineering, model selection, and validation testing
+  - Used Matplotlib to do visualizations 
+  - Did Data Cleaning
   
 - <b> Machine Learning</b>
   - https://github.com/Selam-M/Machine-Learning
@@ -16,7 +16,7 @@
   
 - <b> Visualizations on Python</b>
   - https://github.com/Selam-M/Project-on-Visulizations-
-    -Used Seabrn and Matplotlib to visualize data in Python
+    - Used Seabrn and Matplotlib to visualize data in Python
   
 - <b>Visualizations on Power BI</b>
   - https://github.com/Selam-M/Power-Project--1
@@ -25,12 +25,12 @@
  
   <b>SQL</b>
   -https://github.com/Selam-M/Mariamawet-B-SQL-2
-  -Organized Data, Managed Data, and retrieved Data, archived data from different computer databases.
+  - Organized Data, Managed Data, and retrieved Data, archived data from different computer databases.
   
 - <b>APP for Dispatch Riders</b>
     -https://github.com/Selam-M/An-Aggregator-App-for-dispatch-riders-to-connect-with-SME-s
-       -Collaborative work with Software designers and Product managements 
-       -Did Data Cleaning and Data Exploration
+       - Collaborative work with Software designers and Product managements 
+       - Did Data Cleaning and Data Exploration
   
 
 <h2>📺 CIVILENGINEERING POJECTS -As a Highway Engineer</h2>
