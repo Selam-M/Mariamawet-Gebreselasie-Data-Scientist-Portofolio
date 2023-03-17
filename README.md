@@ -7,14 +7,20 @@
   -
 - <b> Machine Learning</b>
   - https://github.com/Selam-M/Machine-Learning
+  - Did Data Wrangling, Exploratory Data Analysis,Model Building, Data Preprocessing
 - <b> Visualizations on Python</b>
   - https://github.com/Selam-M/Project-on-Visulizations-
+  -Used Seabrn and Matplotlib to visualize data in Python
 - <b>Visualizations on Power BI</b>
   - https://github.com/Selam-M/Power-Project--1
+  -
   <b>SQL</b>
   -https://github.com/Selam-M/Mariamawet-B-SQL-2
+  -Organized Data, Managed Data, and retrieved Data, archived data from different computer databases.
 - <b>Aggregator-App-for-dispatch-riders-to-connect-with-SME-s</b>
   -https://github.com/Selam-M/An-Aggregator-App-for-dispatch-riders-to-connect-with-SME-s
+  -Collaborative work with Software designers and Product managements 
+  -Did Data Cleaning and Data Exploration
   
 
 <h2>📺 CIVILENGINEERING POJECTS -As a Highway Engineer</h2>
@@ -27,7 +33,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadako
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
+[instagram]: https://www.instagram.com/mariamawitbirhanu/?igshid=YmMyMTA2M2Y%3D
+[linkedin]: https://www.linkedin.com/in/mariamawit-b-460453120/
 
