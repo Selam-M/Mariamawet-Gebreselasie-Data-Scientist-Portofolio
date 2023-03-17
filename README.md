@@ -39,7 +39,7 @@
 - Design and Super Vision of Roads of Rural roads in Ethiopia 
   
   <h2>📺 CERTIFICATES</h2>
-     -Data Science,Python,French Language and Different Curricular and Extra Curricular 
+     - Data Science,Python,French Language and Different Curricular and Extra Curricular 
      - https://drive.google.com/drive/folders/1xdC-Me-aTd8zfPZqCW0KOTwXBVwavhuA?usp=share_link
 
 <h2> 🤳 Connect with me:</h2>
